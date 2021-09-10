@@ -1,0 +1,43 @@
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/mkspecs/win32-msvc
+-IC:/Users/Puneet/Desktop/mark6
+-IC:/Users/Puneet/Desktop/PJSIP_VS15/pjproject-2.10/pjsip/include
+-IC:/Users/Puneet/Desktop/PJSIP_VS15/pjproject-2.10/pjlib/include
+-IC:/Users/Puneet/Desktop/PJSIP_VS15/pjproject-2.10/pjlib-util/include
+-IC:/Users/Puneet/Desktop/PJSIP_VS15/pjproject-2.10/pjmedia/include
+-IC:/Users/Puneet/Desktop/PJSIP_VS15/pjproject-2.10/pjnath/include
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Users/Puneet/Desktop/mark6/lib
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include/QtWidgets
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include/QtGui
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include/QtANGLE
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include/QtTest
+-IC:/Qt/Qt5.11.2/5.11.2/msvc2015_64/include/QtCore
+-IC:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE
+-IC:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\shared
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\winrt
